@@ -3,3 +3,7 @@
 # PC에서 생성되는 결과물과 처리 상태
 episodes/*/media/
 episodes/*/state.json
+# 수집한 참고 이미지 (권리가 각 판매자·작가에게 있으므로 커밋하지 않음)
+episodes/*/refs/
+episodes/*/refs.json
+__pycache__/

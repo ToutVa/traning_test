@@ -1,13 +1,15 @@
 """기획안의 룩 + 공통 스타일 + 설정을 합쳐 이미지 생성 프롬프트를 만든다."""
 
 
-def build_prompt(plan: dict, look: dict, cfg: dict, with_reference: bool = False) -> str:
+def build_prompt(plan: dict, look: dict, cfg: dict, with_reference: bool = False, with_products: bool = False) -> str:
     style = plan.get("style", {})
     p = cfg["image"]["prompt"]
 
     parts = []
     if with_reference:
-        parts.append("Same model as the reference image: keep her hair, body shape and skin tone identical. Change only the outfit and the setting.")
+        parts.append("Same model as the first reference image: keep her hair, body shape and skin tone identical. Change only the outfit and the setting.")
+    if with_products:
+        parts.append("Dress her in the garments shown in the product reference images, matching their color, silhouette, length and details as closely as possible. Do not copy the product photo backgrounds or models.")
     parts += [
         look["prompt"],
         f"default setting unless stated above: {style['location']}" if style.get("location") else "",
