@@ -1,0 +1,140 @@
+{
+  "id": "2026-W44-work-week",
+  "status": "planned",
+  "publish_at": "2026-11-01T21:00:00+09:00",
+  "hook": {
+    "title": "월요일 뭐 입지?",
+    "sub": "5일 출근룩 돌려입기",
+    "badge": "적은 옷으로 일주일 끝 👜",
+    "pattern": "다음 주 준비 + 돌려입기(가성비)"
+  },
+  "rationale": {
+    "summary": "일요일 밤은 다음 주를 준비하는 시간. 에이블리 하객 데이터에서 함께 늘어난 블레이저(+149%)와 타이·스카프 블라우스(+63%, +67%)를 출근룩으로 확장하고, 적은 아이템을 돌려입는 구성으로 가성비를 강조.",
+    "sources": [
+      "https://www.hankooki.com/news/articleView.html?idxno=346579"
+    ],
+    "reference_hit": "예시 계정 '비싸 보이는 5만원 이하' 류의 가격·가성비 후킹"
+  },
+  "style": {
+    "framing": "chin-down crop, face not visible, full body",
+    "location": "modern office lobby and elevator hall, clean morning light",
+    "mood": "neat, professional, soft",
+    "aspect": "9:16"
+  },
+  "looks": [
+    {
+      "no": 1,
+      "overlay": "블레이저 + 슬랙스",
+      "prompt": "korean woman, navy single blazer, white shirt, grey straight slacks, black loafers, office lobby",
+      "items": [
+        {
+          "category": "아우터",
+          "desc": "네이비 싱글 블레이저",
+          "color": "네이비",
+          "fit": "레귤러",
+          "keywords": [
+            "네이비 블레이저 여성 싱글"
+          ],
+          "price_max": 60000
+        },
+        {
+          "category": "하의",
+          "desc": "그레이 스트레이트 슬랙스",
+          "color": "그레이",
+          "fit": "스트레이트",
+          "keywords": [
+            "그레이 슬랙스 여성 스트레이트"
+          ],
+          "price_max": 30000
+        }
+      ],
+      "label": "MON"
+    },
+    {
+      "no": 2,
+      "overlay": "스카프 블라우스 + 같은 슬랙스",
+      "prompt": "korean woman, ivory scarf tie blouse, grey straight slacks, black loafers, elevator hall",
+      "items": [
+        {
+          "category": "상의",
+          "desc": "아이보리 스카프 블라우스",
+          "color": "아이보리",
+          "fit": "레귤러",
+          "keywords": [
+            "스카프 블라우스 아이보리 여성"
+          ],
+          "price_max": 30000
+        }
+      ],
+      "note": "월요일 슬랙스 재사용",
+      "label": "TUE"
+    },
+    {
+      "no": 3,
+      "overlay": "니트 + 플리츠 스커트",
+      "prompt": "korean woman, beige v-neck knit, navy pleated midi skirt, black loafers, office window",
+      "items": [
+        {
+          "category": "상의",
+          "desc": "베이지 브이넥 니트",
+          "color": "베이지",
+          "fit": "레귤러",
+          "keywords": [
+            "브이넥 니트 베이지 여성"
+          ],
+          "price_max": 30000
+        },
+        {
+          "category": "하의",
+          "desc": "네이비 플리츠 미디스커트",
+          "color": "네이비",
+          "fit": "플리츠",
+          "keywords": [
+            "플리츠 미디스커트 네이비"
+          ],
+          "price_max": 30000
+        }
+      ],
+      "label": "WED"
+    },
+    {
+      "no": 4,
+      "overlay": "블레이저 + 플리츠 스커트",
+      "prompt": "korean woman, navy single blazer, white shirt, navy pleated midi skirt, black loafers, office corridor",
+      "items": [],
+      "note": "월요일 블레이저 + 수요일 스커트 재조합, 새 아이템 없음",
+      "label": "THU"
+    },
+    {
+      "no": 5,
+      "overlay": "니트 + 데님 캐주얼",
+      "prompt": "korean woman, beige v-neck knit, straight dark denim jeans, white sneakers, office entrance friday",
+      "items": [
+        {
+          "category": "하의",
+          "desc": "진청 스트레이트 데님",
+          "color": "진청",
+          "fit": "스트레이트",
+          "keywords": [
+            "진청 스트레이트 청바지 여성"
+          ],
+          "price_max": 40000
+        }
+      ],
+      "note": "수요일 니트 재사용",
+      "label": "FRI"
+    }
+  ],
+  "caption": "월요일 아침마다 옷장 앞에서 고민된다면 👜\n적은 옷으로 돌려입는 일주일 출근룩\n\n📌 착장 정보는 프로필 링크 → 요일별\n💬 댓글에 '출근' 남기면 링크 보내드려요",
+  "hashtags": [
+    "출근룩",
+    "직장인코디",
+    "오피스룩",
+    "돌려입기",
+    "오늘의코디",
+    "블레이저코디",
+    "데일리룩"
+  ],
+  "music": "라이선스 음원 · 가벼운 재즈",
+  "dm_keyword": "출근"
+}

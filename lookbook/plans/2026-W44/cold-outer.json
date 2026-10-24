@@ -1,0 +1,74 @@
+{
+  "id": "2026-W44-cold-outer",
+  "status": "planned",
+  "publish_at": "2026-10-26T20:00:00+09:00",
+
+  "hook": {
+    "title": "갑자기 추워진 날",
+    "sub": "바로 꺼내 입는 아우터 4",
+    "badge": "옷장 정리 전에 저장 🧥",
+    "pattern": "계절 전환 + 타이밍"
+  },
+
+  "rationale": {
+    "summary": "10월 말 기온 하락 시점. 예시 계정에서 계절 전환형 '쌀쌀해졌다 하이넥 꺼낼 시간' 릴스가 16.4만 조회로 가장 높았음. 런웨이 키워드인 애니멀 프린트와 스커트 수트 대신, 실구매가 많은 기본 아우터 위주로 구성.",
+    "sources": [
+      "https://www.harpersbazaar.co.kr/article/1908521"
+    ],
+    "reference_hit": "예시 계정 '쌀쌀해졌다 하이넥 꺼낼 시간' 16.4만 조회"
+  },
+
+  "style": {
+    "framing": "chin-down crop, face not visible, full body",
+    "location": "city street with autumn trees, overcast cool light",
+    "mood": "chic, cozy, early winter",
+    "aspect": "9:16"
+  },
+
+  "looks": [
+    {
+      "no": 1,
+      "overlay": "Look 1 · 숏 패딩 + 와이드 슬랙스",
+      "prompt": "korean woman, cream short puffer jacket, grey turtleneck knit, black wide slacks, black loafers, city street autumn trees",
+      "items": [
+        { "category": "아우터", "desc": "크림 숏패딩", "color": "크림", "fit": "숏", "keywords": ["숏패딩 크림 여성", "크롭 패딩 아이보리"], "price_max": 70000 },
+        { "category": "상의", "desc": "그레이 터틀넥 니트", "color": "그레이", "fit": "레귤러", "keywords": ["터틀넥 니트 그레이 여성"], "price_max": 30000 },
+        { "category": "하의", "desc": "블랙 와이드 슬랙스", "color": "블랙", "fit": "와이드", "keywords": ["와이드 슬랙스 블랙 여성"], "price_max": 30000 }
+      ]
+    },
+    {
+      "no": 2,
+      "overlay": "Look 2 · 울 롱코트 + 니트 원피스",
+      "prompt": "korean woman, camel wool long coat, brown knit long dress, brown suede knee boots, leather shoulder bag, autumn sidewalk",
+      "items": [
+        { "category": "아우터", "desc": "카멜 울 롱코트", "color": "카멜", "fit": "오버핏", "keywords": ["카멜 롱코트 여성 울"], "price_max": 90000 },
+        { "category": "원피스", "desc": "브라운 니트 롱원피스", "color": "브라운", "fit": "슬림", "keywords": ["니트 원피스 브라운 롱"], "price_max": 40000 },
+        { "category": "신발", "desc": "브라운 스웨이드 롱부츠", "color": "브라운", "fit": "-", "keywords": ["스웨이드 롱부츠 브라운 여성"], "price_max": 60000 }
+      ]
+    },
+    {
+      "no": 3,
+      "overlay": "Look 3 · 무스탕 + 데님",
+      "prompt": "korean woman, dark brown faux shearling mustang jacket, white knit, straight blue jeans, black ankle boots, cafe street",
+      "items": [
+        { "category": "아우터", "desc": "다크브라운 무스탕 재킷", "color": "다크브라운", "fit": "레귤러", "keywords": ["무스탕 자켓 여성 브라운", "페이크 무스탕"], "price_max": 70000 },
+        { "category": "하의", "desc": "스트레이트 청바지", "color": "중청", "fit": "스트레이트", "keywords": ["스트레이트 청바지 여성 중청"], "price_max": 40000 }
+      ]
+    },
+    {
+      "no": 4,
+      "overlay": "Look 4 · 레오파드 퍼 재킷 포인트",
+      "prompt": "korean woman, leopard print faux fur short jacket, black knit top, black mini skirt, black tights, black loafers, evening street lights",
+      "items": [
+        { "category": "아우터", "desc": "레오파드 퍼 숏재킷", "color": "브라운", "fit": "숏", "keywords": ["레오파드 퍼자켓 여성", "호피 퍼 자켓"], "price_max": 70000 },
+        { "category": "하의", "desc": "블랙 미니스커트", "color": "블랙", "fit": "A라인", "keywords": ["블랙 미니스커트 여성"], "price_max": 25000 }
+      ],
+      "note": "2026 F/W 런웨이 키워드 '애니멀 프린트' 반영"
+    }
+  ],
+
+  "caption": "갑자기 추워진 날 뭐 입지? 🥶\n옷장에서 바로 꺼내 입는 초겨울 아우터 코디 4가지\n\n📌 착장 정보는 프로필 링크 → Look 번호\n💬 댓글에 '아우터' 남기면 링크 보내드려요",
+  "hashtags": ["아우터추천", "초겨울코디", "숏패딩", "무스탕", "오늘의코디", "데일리룩", "겨울코디"],
+  "music": "라이선스 음원 · 시티팝",
+  "dm_keyword": "아우터"
+}

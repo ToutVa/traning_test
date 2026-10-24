@@ -11,7 +11,7 @@ function html(plan) {
   const looks = plan.looks.map((l) => `
   <section class="f look">
     <div class="ph">AI 생성 이미지 자리<br><small>${esc(l.prompt)}</small></div>
-    <div class="lk">Look ${l.no}</div>
+    <div class="lk">${esc(l.label || `Look ${l.no}`)}</div>
     <div class="cap">${esc(l.overlay.replace(/^Look \d+ · /, ''))}</div>
     <div class="ai">AI 생성 이미지 · 비슷한 상품 추천</div>
   </section>`).join('');
