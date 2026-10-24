@@ -52,7 +52,7 @@ python run.py
 |---|---|---|---|
 | ① plan | `trends/*.yaml`, 과거 성과 | `episode.json` (후킹 제목, 룩 4~6개, 아이템, 생성 프롬프트, 캡션, 해시태그) | LLM API 사용. 성공 패턴: 상황 + 가격 + 계절 + 체형 |
 | ② match | 아이템 설명 | 아이템별 상품명·가격·제휴 링크, `match: similar` | 쿠팡 Open API. 에이블리는 공개 API가 없어 수동 입력 |
-| ③ generate | 룩 프롬프트 + 얼굴 앵커 | `media/lookN.png/mp4` | ComfyUI의 "API 형식으로 저장" 워크플로우 JSON 사용 |
+| ③ generate | 룩 프롬프트 + 공통 스타일 | `media/lookN_후보.png` | **GPT 이미지 API** (`pipeline/generate.py`). 영상화가 필요하면 나중에 ComfyUI R2V에 이 사진을 Picture1로 넣는다 |
 | ④ edit | 룩 영상, 후킹 제목 | `reel.mp4` (1080×1920, H.264/AAC), `cover.jpg` | 자막은 HTML 템플릿 → PNG → ffmpeg 합성 |
 | ⑤ review | 전체 결과 | 승인/수정 | 로컬 웹페이지. `--auto` 옵션이면 건너뜀 |
 | ⑥ ship | 승인된 에피소드 | R2 영상, 사이트 갱신, 예약 큐 등록 | 완료 알림(텔레그램/디스코드) |

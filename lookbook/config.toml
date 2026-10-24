@@ -1,0 +1,15 @@
+# 룩북 파이프라인 설정. API 키는 여기 말고 .env에 넣는다.
+
+[image]
+# OpenAI 이미지 모델. 이름이 자주 바뀌므로 OpenAI 문서에서 현재 모델명을 확인해서 바꾼다.
+model = "gpt-image-2"
+size = "1024x1536"          # 세로형. 릴스(9:16)에는 편집 단계에서 위아래 여백을 채운다
+quality = "medium"          # low / medium / high
+candidates = 2              # 룩마다 몇 장씩 뽑을지
+# 모델(헤어·체형)을 매번 똑같이 유지하려면 기준 이미지를 지정한다. 비우면 텍스트로만 생성.
+model_reference = ""        # 예: "assets/model_ref.png"
+
+[image.prompt]
+quality_suffix = "photorealistic fashion lookbook photo, natural skin texture, shot on 35mm, soft natural light, high detail fabric"
+# GPT 이미지는 네거티브 프롬프트가 없어서 금지 사항을 문장으로 넣는다
+avoid = "no logos, no brand names, no printed text or lettering on clothing, no watermark, plain garments without graphics"
