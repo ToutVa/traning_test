@@ -1,0 +1,5 @@
+# API 키 등 비밀 정보
+.env
+# PC에서 생성되는 결과물과 처리 상태
+episodes/*/media/
+episodes/*/state.json
