@@ -1,0 +1,74 @@
+{
+  "id": "2026-W44-hagaek-tweed",
+  "status": "planned",
+  "publish_at": "2026-10-27T20:00:00+09:00",
+
+  "hook": {
+    "title": "비싸 보이는 가을 하객룩",
+    "sub": "트위드 재킷 하나로 끝내는 4가지",
+    "badge": "결혼식 가기 전에 저장 필수 💐",
+    "pattern": "상황 + 고급스러움 + 아이템 하나로 해결"
+  },
+
+  "rationale": {
+    "summary": "가을 결혼식 시즌. 에이블리 하객룩 거래 데이터에서 트위드 재킷(+202%), 블레이저(+149%), 타이·스카프 블라우스(+63%, +67%)가 급증.",
+    "sources": [
+      "https://www.hankooki.com/news/articleView.html?idxno=346579"
+    ],
+    "reference_hit": "예시 계정의 '비싸 보이는 5만원 이하 하객룩' 릴스 7.3만 조회"
+  },
+
+  "style": {
+    "framing": "chin-down crop, face not visible",
+    "location": "hotel wedding hall lobby, warm beige marble, soft daylight",
+    "mood": "elegant, warm, autumn",
+    "aspect": "9:16"
+  },
+
+  "looks": [
+    {
+      "no": 1,
+      "overlay": "Look 1 · 아이보리 트위드 + 블랙 원피스",
+      "prompt": "korean woman, ivory cropped tweed jacket with gold buttons, black satin slip midi dress, black slingback heels, small black chain bag, standing in hotel lobby",
+      "items": [
+        { "category": "아우터", "desc": "아이보리 크롭 트위드 재킷", "color": "아이보리", "fit": "크롭", "keywords": ["트위드 재킷 크롭 아이보리", "여성 트위드자켓"], "price_max": 50000 },
+        { "category": "원피스", "desc": "블랙 새틴 슬립 미디 원피스", "color": "블랙", "fit": "슬림", "keywords": ["새틴 슬립 원피스 블랙 미디"], "price_max": 40000 },
+        { "category": "신발", "desc": "블랙 슬링백 힐", "color": "블랙", "fit": "-", "keywords": ["슬링백 힐 블랙 여성"], "price_max": 40000 }
+      ]
+    },
+    {
+      "no": 2,
+      "overlay": "Look 2 · 핑크 트위드 셋업",
+      "prompt": "korean woman, light pink tweed jacket and matching tweed mini skirt set, white blouse, pearl necklace, beige pumps, hotel garden terrace",
+      "items": [
+        { "category": "셋업", "desc": "라이트 핑크 트위드 재킷 + 스커트 셋업", "color": "라이트핑크", "fit": "레귤러", "keywords": ["트위드 셋업 핑크 스커트", "트위드 투피스"], "price_max": 70000 },
+        { "category": "액세서리", "desc": "진주 목걸이", "color": "화이트", "fit": "-", "keywords": ["진주 목걸이 여성 데일리"], "price_max": 20000 }
+      ]
+    },
+    {
+      "no": 3,
+      "overlay": "Look 3 · 스카프 블라우스 + 블레이저",
+      "prompt": "korean woman, charcoal oversized blazer, cream scarf tie blouse, black wide slacks, black loafers, standing by marble pillar",
+      "items": [
+        { "category": "아우터", "desc": "차콜 오버핏 블레이저", "color": "차콜", "fit": "오버핏", "keywords": ["오버핏 블레이저 차콜 여성"], "price_max": 50000 },
+        { "category": "상의", "desc": "크림 스카프 타이 블라우스", "color": "크림", "fit": "레귤러", "keywords": ["스카프 블라우스 크림", "타이 블라우스 여성"], "price_max": 30000 },
+        { "category": "하의", "desc": "블랙 와이드 슬랙스", "color": "블랙", "fit": "와이드", "keywords": ["와이드 슬랙스 블랙 여성"], "price_max": 30000 }
+      ]
+    },
+    {
+      "no": 4,
+      "overlay": "Look 4 · 퍼플 포인트 트위드",
+      "prompt": "korean woman, lavender purple tweed jacket, ivory knit top, cream pleated midi skirt, ivory mary jane heels, autumn leaves outside window",
+      "items": [
+        { "category": "아우터", "desc": "라벤더 퍼플 트위드 재킷", "color": "라벤더", "fit": "레귤러", "keywords": ["트위드 재킷 퍼플", "라벤더 트위드자켓"], "price_max": 50000 },
+        { "category": "하의", "desc": "크림 플리츠 미디 스커트", "color": "크림", "fit": "A라인", "keywords": ["플리츠 미디스커트 크림"], "price_max": 30000 }
+      ],
+      "note": "2026 F/W 런웨이 키워드 '퍼플'을 반영한 포인트 룩"
+    }
+  ],
+
+  "caption": "결혼식 갈 때 뭐 입지? 고민이라면 💐\n트위드 재킷 하나로 고급스럽게 끝내는 가을 하객룩 4가지\n\n📌 착장 정보는 프로필 링크 → Look 번호\n💬 댓글에 '하객' 남기면 링크 보내드려요",
+  "hashtags": ["하객룩", "가을하객룩", "트위드자켓", "결혼식룩", "데일리룩", "오늘의코디", "가을코디"],
+  "music": "라이선스 음원 · 잔잔한 어쿠스틱",
+  "dm_keyword": "하객"
+}

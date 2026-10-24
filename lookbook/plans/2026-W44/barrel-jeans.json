@@ -1,0 +1,73 @@
+{
+  "id": "2026-W44-barrel-jeans",
+  "status": "planned",
+  "publish_at": "2026-10-29T20:00:00+09:00",
+
+  "hook": {
+    "title": "하체 통통해도 다리 길어 보이는",
+    "sub": "배럴진 코디 공식 4가지",
+    "badge": "청바지 사기 전에 확인 👖",
+    "pattern": "체형 고민 + 효과 + 공식화"
+  },
+
+  "rationale": {
+    "summary": "무신사 2026 데님 콘텐츠에서 이번 시즌 가장 뜨거운 데님 키워드로 배럴진을 꼽음. 체형 고민형 후킹은 저장률이 높고, 다음 주 기온 하락에 맞춰 니트·아우터와 조합.",
+    "sources": [
+      "https://www.musinsa.com/content/1481467079225531565"
+    ],
+    "reference_hit": "예시 계정의 '통통한 체형 가려주는 가을 꾸안꾸룩' 형식"
+  },
+
+  "style": {
+    "framing": "chin-down crop, face not visible, full body to shoes",
+    "location": "han river park walkway at golden hour, fallen leaves",
+    "mood": "casual, cozy, sunset",
+    "aspect": "9:16"
+  },
+
+  "looks": [
+    {
+      "no": 1,
+      "overlay": "Look 1 · 숏 니트 + 하이웨스트 배럴진",
+      "prompt": "korean woman, cropped cream cable knit sweater, high waist light blue barrel jeans, white chunky sneakers, black shoulder bag, han river sunset",
+      "items": [
+        { "category": "상의", "desc": "크림 케이블 크롭 니트", "color": "크림", "fit": "크롭", "keywords": ["크롭 케이블 니트 크림"], "price_max": 35000 },
+        { "category": "하의", "desc": "하이웨스트 연청 배럴진", "color": "연청", "fit": "배럴", "keywords": ["배럴진 하이웨스트 연청", "배럴 데님 여성"], "price_max": 45000 },
+        { "category": "신발", "desc": "화이트 청키 스니커즈", "color": "화이트", "fit": "-", "keywords": ["청키 스니커즈 화이트 여성"], "price_max": 50000 }
+      ]
+    },
+    {
+      "no": 2,
+      "overlay": "Look 2 · 레오파드 카디건 포인트",
+      "prompt": "korean woman, leopard print knit cardigan, black tank top, mid blue barrel jeans, black ballet flats, autumn leaves on walkway",
+      "items": [
+        { "category": "상의", "desc": "레오파드 니트 카디건", "color": "브라운", "fit": "레귤러", "keywords": ["레오파드 카디건 여성", "호피 니트 가디건"], "price_max": 40000 },
+        { "category": "하의", "desc": "중청 배럴진", "color": "중청", "fit": "배럴", "keywords": ["배럴진 중청"], "price_max": 45000 }
+      ],
+      "note": "2026 F/W 런웨이 키워드 '애니멀 프린트' 반영"
+    },
+    {
+      "no": 3,
+      "overlay": "Look 3 · 롱 트렌치 + 배럴진",
+      "prompt": "korean woman, beige long trench coat open, white t-shirt, dark indigo barrel jeans, brown loafers, river breeze",
+      "items": [
+        { "category": "아우터", "desc": "베이지 롱 트렌치코트", "color": "베이지", "fit": "오버핏", "keywords": ["롱 트렌치코트 베이지 여성"], "price_max": 70000 },
+        { "category": "하의", "desc": "진청 배럴진", "color": "진청", "fit": "배럴", "keywords": ["배럴진 진청 여성"], "price_max": 45000 }
+      ]
+    },
+    {
+      "no": 4,
+      "overlay": "Look 4 · 후드 + 배럴진 꾸안꾸",
+      "prompt": "korean woman, oatmeal grey oversized hoodie, white long sleeve layered underneath, light grey wash barrel jeans, white sneakers, iced americano, sitting on stone bench by river",
+      "items": [
+        { "category": "상의", "desc": "오트밀 오버핏 후드티", "color": "오트밀", "fit": "오버핏", "keywords": ["오버핏 후드티 오트밀 여성"], "price_max": 35000 },
+        { "category": "하의", "desc": "그레이 워싱 배럴진", "color": "그레이", "fit": "배럴", "keywords": ["배럴진 그레이 워싱"], "price_max": 45000 }
+      ]
+    }
+  ],
+
+  "caption": "하체 통통해서 청바지 고민이라면 👖\n허리는 잡아주고 다리는 길어 보이는 배럴진 코디 4가지\n\n📌 착장 정보는 프로필 링크 → Look 번호\n💬 댓글에 '배럴' 남기면 링크 보내드려요",
+  "hashtags": ["배럴진", "배럴진코디", "청바지코디", "가을코디", "체형커버", "오늘의코디", "데일리룩"],
+  "music": "라이선스 음원 · 로파이 비트",
+  "dm_keyword": "배럴"
+}
